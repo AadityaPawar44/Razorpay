@@ -1,4 +1,4 @@
 # Razorpay
 This is razorpay clone
 <br>
-Author- Aditya Pawar
+Author- Aditya Pawar(Power Company)
